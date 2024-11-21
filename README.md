@@ -1,4 +1,4 @@
-#Learning c++ language in a intuitive way.
+# Learning c++ language in a intuitive way.
 
 Hi!, i hope this repository help you to learn and improve your skills in c++.
 
